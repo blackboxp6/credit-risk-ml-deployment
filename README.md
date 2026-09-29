@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project for predicting credit default risk, comparing multiple classification models, and explaining predictions using SHAP.
 
-<img src="streamlit-deployment.png" width="800">
+![Project Demo](my-project/images/streamlit-deployment.png)
 
 
 
